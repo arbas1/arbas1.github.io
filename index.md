@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Arpana Basnet
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Don't worry what will happen next enjoy the moment you are living."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Junior, Computer Science @ Morgan State University"
+  - "🔬 Research: Application of Artificial Intelligence (AI) to Predict Genetic Biomarkers of Brain Tumor from Transcriptomic Data Set"
+  - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/tarpanabasnet09/
 image: /assets/images/me.jpg
 ---
