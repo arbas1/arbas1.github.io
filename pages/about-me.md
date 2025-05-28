@@ -23,12 +23,12 @@ about:
       description: I am into swimmig these days as I am learning but it is a fun activing that I am enjoying currently.
 
   gallery:
-    - image: /assets/images/MyPainting.jpg
+    - image: /assets/images/MyPainting.jpeg
       caption: Painting of my beta fish
-    - image: /assets/images/Dance.jpg
+    - image: /assets/images/Dance.jpeg
       caption: Me and my friend dancing at Morgan State University
     - image: /assets/images/my.jpg
       caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/my.jpg
+      caption: 
 ---
