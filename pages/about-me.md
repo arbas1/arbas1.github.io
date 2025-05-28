@@ -4,27 +4,23 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Arpana Basnet
+  role: Junior, Computer Science at Morgan State University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/arpanabasnet09/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    I’m currently a junior studying Computer Science at Morgan State University, Maryland I expect to graduate in 2026.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🎨
+      title: Painting
+      description: I just love paintings ad art and love to do painting as a hobby whenever I have free time.
+    - icon: 📽
+      title: 💃🕺🎉
+      description: I enjoy dancing. Not a pro dancer but I love dancing and have been dancing since I was little.
+    - icon: 🏊‍♀️
+      title: Swimming
+      description: I am into swimmig these days as I am learning but it is a fun activing that I am enjoying currently.
 
   gallery:
     - image: /assets/images/me-guitar.png
