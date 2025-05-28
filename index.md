@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/tarpanabasnet09/
+linkedin: https://www.linkedin.com/in/arpanabasnet09/
 image: /assets/images/my.jpg
 ---
