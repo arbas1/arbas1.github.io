@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Arpana Basnet
   role: Junior, Computer Science at Morgan State University
-  image: /assets/images/me.jpg
+  image: /assets/images/my.jpg
   linkedin: https://www.linkedin.com/in/arpanabasnet09/
   bio: |
     I’m currently a junior studying Computer Science at Morgan State University, Maryland I expect to graduate in 2026.
@@ -23,7 +23,7 @@ about:
       description: I am into swimmig these days as I am learning but it is a fun activing that I am enjoying currently.
 
   gallery:
-    - image: /assets/images/MyPainting.jpeg
+    - image: /assets/images/MyPainting.jpg
       caption: Painting of my beta fish
     - image: /assets/images/Dance.jpg
       caption: Me and my friend dancing at Morgan State University
