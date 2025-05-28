@@ -25,7 +25,7 @@ about:
   gallery:
     - image: /assets/images/MyPainting.jpeg
       caption: Painting of my beta fish
-    - image: /assets/images/Dance.jpeg
+    - image: /assets/images/Dance.jpg
       caption: Me and my friend dancing at Morgan State University
     - image: /assets/images/my.jpg
       caption: My favorite portrait of myself :)
