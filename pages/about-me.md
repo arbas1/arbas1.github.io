@@ -23,8 +23,8 @@ about:
       description: I am into swimmig these days as I am learning but it is a fun activing that I am enjoying currently.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: /assets/images/MyPainting.jpg
+      caption: Painting of my beta fish
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
