@@ -25,7 +25,7 @@ about:
   gallery:
     - image: /assets/images/MyPainting.jpg
       caption: Painting of my beta fish
-    - image: /assets/images/me-basketball.png
+    - image: /assets/images/Dance.jpg
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
