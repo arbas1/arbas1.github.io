@@ -14,7 +14,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Roshan Poudel
   title: Coordinator of the MS in Bioinformatics Program, Professor of Practice, Computer Science, Morgan State University
-  image: Mentor2.jpeg
+  image: /assets/images/Mentor2.jpeg
   website: https://facultymentor.example.com
   bio: |
     Dr. Roshan Paudel is the Coordinator of the MS in Bioinformatics Program and a Professor of Practice in Computer Science at Morgan State University. His research focuses on high-performance computing, bioinformatics, next-generation sequencing analysis, computational biology, and modeling and simulation. A key part of his work involves developing stochastic models of calcium and ion channels in cardiac myocytes. In addition to his scientific research, Dr. Paudel is passionate about computer science education. He actively works to improve undergraduate retention by integrating critical thinking, active learning, and project-based approaches into introductory programming courses. His commitment to both research and education makes him an inspiring mentor and a driving force in the academic community.
