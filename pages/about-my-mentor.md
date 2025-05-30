@@ -1,11 +1,11 @@
-----
+---
 layout: mentor
 title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Adeyemi Tijesumini
-  title: PhD Student,Computer and Electrical Engineering
+  title: PhD Student, Computer and Electrical Engineering
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
  bio: |
