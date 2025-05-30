@@ -9,17 +9,14 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
   bio: |
-     Adeyemi Tijesumini is a PhD candidate in  Computer and Electrical Engineering, focused on  Computer and Electrical Engineering. His research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+     Adeyemi Tijesumini is a PhD candidate in  Computer and Electrical Engineering, focused on  Computer and Electrical Engineering. His current work involves using genomics and transcriptomic data to build machine learning models that can classify brain tumors based on genetic markers and predict the risk of cancer. Adeyemi is also focused on validating these models with available resources and guiding students in preparing manuscripts for submission to academic journals or conferences. His research applies algorithms like Random Forest, Naive Bayes, SVM, K-Nearest Neighbors, LASSO, and Ridge regression to improve diagnostic accuracy. As a mentor, he has played a vital role in helping students understand complex data science techniques, structure research projects, and grow both academically and professionally.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Roshan Poudel
+  title: Coordinator of the MS in Bioinformatics Program, Professor of Practice, Computer Science, Morgan State University
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Roshan Paudel is the Coordinator of the MS in Bioinformatics Program and a Professor of Practice in Computer Science at Morgan State University. His research focuses on high-performance computing, bioinformatics, next-generation sequencing analysis, computational biology, and modeling and simulation. A key part of his work involves developing stochastic models of calcium and ion channels in cardiac myocytes. In addition to his scientific research, Dr. Paudel is passionate about computer science education. He actively works to improve undergraduate retention by integrating critical thinking, active learning, and project-based approaches into introductory programming courses. His commitment to both research and education makes him an inspiring mentor and a driving force in the academic community.
 
 ---
